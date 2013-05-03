@@ -1,5 +1,3 @@
-#!/bin/sh
-
 # Create postgres home and data directories
 mkdir -p /export/home/postgres
 mkdir -p /var/postgres/9.2/data
