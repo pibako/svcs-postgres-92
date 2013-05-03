@@ -1,0 +1,4 @@
+* Install PostgreSQL 9.2 service on OmniOS.
+  : $ git clone https://github.com/pibako/svcs-postgres-92.git
+  : $ cd svcs-postgres-92
+  : $ ./install.sh
